@@ -2,7 +2,7 @@
 {
     public static void MostrarMenu()
     {
-        Console.WriteLine("&&&&&&&& :Menú de Operaciones: &&&&&&&&&&&&");
+        Console.WriteLine("*********** :Menú de Operaciones: *********** ");
         Console.WriteLine("1. Sumar");
         Console.WriteLine("2. Restar");
         Console.WriteLine("3. Multiplicar");
